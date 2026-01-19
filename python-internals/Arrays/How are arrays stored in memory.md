@@ -1,4 +1,4 @@
-# How are arrays stored in memeory of  computer?
+# How are arrays stored in memory of a computer?
 
 - Computer can only understand 0s & 1s. Hence all the data we store, is stored in 0s and 1s in computer after translation into byte code by the interpreter.
 
