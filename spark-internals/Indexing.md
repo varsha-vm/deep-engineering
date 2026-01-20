@@ -1,5 +1,5 @@
 # Indexing in SQL
-- Indexing is a data structure creayed by SQL developers to make the query execution faster.
+- Indexing is a data structure created by SQL developers to make the query execution faster.
 - Indexing create a copy on data and uses seperate disk space to hold  indexed data, hence it can be redundant.
 - Real life example would be the index available on back of every book with page numbers.
 - Indexing make query execution easier as everything is ordered just like content in yellow pages or telephone directory.
@@ -21,7 +21,7 @@
     - Indexed columns are mostly used in WHERE, JOIN, ORDER BY.
     - Columns that changes values frequently like timestamp etc are not good candidate for indexing.
     - Do not index small tables as DB will full scan anyways and no use of indexing here.
-    
+
 
 
 
